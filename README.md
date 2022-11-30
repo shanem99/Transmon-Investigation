@@ -7,3 +7,7 @@ This is added during tutorial
 ## subheader 
 
 more text
+
+## local developement 
+
+open .index.html in browserg
